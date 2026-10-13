@@ -1,0 +1,4 @@
+method,mae,smape
+ridge_calendar,19.0366,0.0669
+holt_winters,28.2872,0.0976
+seasonal_naive,34.6036,0.1213

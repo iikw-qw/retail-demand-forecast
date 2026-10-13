@@ -1,0 +1,16 @@
+{
+  "days": 1095,
+  "folds": 10,
+  "best_method": "ridge_calendar",
+  "mae": {
+    "ridge_calendar": 19.04,
+    "holt_winters": 28.29,
+    "seasonal_naive": 34.6
+  },
+  "smape": {
+    "ridge_calendar": 0.0669,
+    "holt_winters": 0.0976,
+    "seasonal_naive": 0.1213
+  },
+  "mae_improvement_over_seasonal_naive": 0.45
+}
